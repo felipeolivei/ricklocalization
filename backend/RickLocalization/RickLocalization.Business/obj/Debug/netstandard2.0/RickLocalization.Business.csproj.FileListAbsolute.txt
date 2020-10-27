@@ -1,0 +1,14 @@
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Business\bin\Debug\netstandard2.0\RickLocalization.Business.deps.json
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Business\bin\Debug\netstandard2.0\RickLocalization.Business.dll
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Business\bin\Debug\netstandard2.0\RickLocalization.Business.pdb
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Business\obj\Debug\netstandard2.0\RickLocalization.Business.csprojAssemblyReference.cache
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Business\obj\Debug\netstandard2.0\RickLocalization.Business.csproj.CoreCompileInputs.cache
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Business\obj\Debug\netstandard2.0\RickLocalization.Business.AssemblyInfoInputs.cache
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Business\obj\Debug\netstandard2.0\RickLocalization.Business.AssemblyInfo.cs
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Business\obj\Debug\netstandard2.0\RickLocalization.Business.dll
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Business\obj\Debug\netstandard2.0\RickLocalization.Business.pdb
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Business\bin\Debug\netstandard2.0\RickLocalization.Data.dll
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Business\bin\Debug\netstandard2.0\RickLocalization.Model.dll
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Business\bin\Debug\netstandard2.0\RickLocalization.Data.pdb
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Business\bin\Debug\netstandard2.0\RickLocalization.Model.pdb
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Business\obj\Debug\netstandard2.0\RickLocalization.Business.csproj.CopyComplete
