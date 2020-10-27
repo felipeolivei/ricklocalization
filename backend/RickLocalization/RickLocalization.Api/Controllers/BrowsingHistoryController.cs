@@ -28,7 +28,7 @@ namespace RickLocalization.Api.Controllers
         }
 
         [HttpGet("getall")]
-        public IActionResult GetAll()
+        public IActionResult GetAll(int? take, int? skip)
         {
             try
             {
@@ -38,6 +38,11 @@ namespace RickLocalization.Api.Controllers
                 {
                     var listVM = _mapper.Map<IEnumerable<BrowsingHistoryViewModel>>(list);
                     int totalItens = listVM.Count();
+
+                    if (skip.HasValue)
+                        listVM = listVM.Skip(skip.Value);
+                    if (take.HasValue)
+                        listVM = listVM.Take(take.Value);
 
                     return Success(new { Items = listVM, totalCount = totalItens });
                 }

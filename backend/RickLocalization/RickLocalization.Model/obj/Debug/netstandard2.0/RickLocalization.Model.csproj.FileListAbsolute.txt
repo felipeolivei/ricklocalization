@@ -7,3 +7,12 @@ C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLo
 C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Model\obj\Debug\netstandard2.0\RickLocalization.Model.csproj.CoreCompileInputs.cache
 C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Model\obj\Debug\netstandard2.0\RickLocalization.Model.dll
 C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Model\obj\Debug\netstandard2.0\RickLocalization.Model.pdb
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Model\bin\Debug\netstandard2.0\RickLocalization.Model.deps.json
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Model\bin\Debug\netstandard2.0\RickLocalization.Model.dll
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Model\bin\Debug\netstandard2.0\RickLocalization.Model.pdb
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Model\obj\Debug\netstandard2.0\RickLocalization.Model.csprojAssemblyReference.cache
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Model\obj\Debug\netstandard2.0\RickLocalization.Model.csproj.CoreCompileInputs.cache
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Model\obj\Debug\netstandard2.0\RickLocalization.Model.AssemblyInfoInputs.cache
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Model\obj\Debug\netstandard2.0\RickLocalization.Model.AssemblyInfo.cs
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Model\obj\Debug\netstandard2.0\RickLocalization.Model.dll
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Model\obj\Debug\netstandard2.0\RickLocalization.Model.pdb

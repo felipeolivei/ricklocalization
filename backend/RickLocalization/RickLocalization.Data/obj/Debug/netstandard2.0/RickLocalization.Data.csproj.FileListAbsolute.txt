@@ -10,3 +10,15 @@ C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLo
 C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Data\obj\Debug\netstandard2.0\RickLocalization.Data.dll
 C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Data\obj\Debug\netstandard2.0\RickLocalization.Data.pdb
 C:\Users\felipe.oliveira\Documents\Projetos\Rick\backend\RickLocalization\RickLocalization.Data\obj\Debug\netstandard2.0\RickLocalization.Data.csproj.CoreCompileInputs.cache
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Data\bin\Debug\netstandard2.0\RickLocalization.Data.deps.json
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Data\bin\Debug\netstandard2.0\RickLocalization.Data.dll
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Data\bin\Debug\netstandard2.0\RickLocalization.Data.pdb
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Data\bin\Debug\netstandard2.0\RickLocalization.Model.dll
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Data\bin\Debug\netstandard2.0\RickLocalization.Model.pdb
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Data\obj\Debug\netstandard2.0\RickLocalization.Data.csprojAssemblyReference.cache
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Data\obj\Debug\netstandard2.0\RickLocalization.Data.csproj.CoreCompileInputs.cache
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Data\obj\Debug\netstandard2.0\RickLocalization.Data.AssemblyInfoInputs.cache
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Data\obj\Debug\netstandard2.0\RickLocalization.Data.AssemblyInfo.cs
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Data\obj\Debug\netstandard2.0\RickLocalization.Data.csproj.CopyComplete
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Data\obj\Debug\netstandard2.0\RickLocalization.Data.dll
+C:\Users\felipe.oliveira\Documents\Projetos\Rick\git\backend\RickLocalization\RickLocalization.Data\obj\Debug\netstandard2.0\RickLocalization.Data.pdb
